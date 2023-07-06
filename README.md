@@ -8,7 +8,7 @@ Este projeto é feito para o estudo de padrões de projeto (design patterns) da 
 
 - [Categorias](#categorias)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Referências](#referencias)
+- [Referências](#referências)
 
 ## Categorias
 
